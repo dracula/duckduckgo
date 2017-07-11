@@ -1,5 +1,4 @@
 # Dracula for [DuckDuckGo](https://duckduckgo.com)
-
 > A dark theme for [DuckDuckGo](https://duckduckgo.com).
 
 ![Screenshot](https://raw.githubusercontent.com/makixx/duckduckgo/master/firefox-1.png)
