@@ -2,12 +2,11 @@
 
 > A dark theme for [DuckDuckGo](https://duckduckgo.com).
 
-![Screenshot](https://raw.githubusercontent.com/makixx/duckduckgo/master/firefox.png)
+![Screenshot](https://raw.githubusercontent.com/makixx/dracula-for-duckduckgo/master/firefox.png)
 
 ## Install
 
-Drag and drop this bookmarklet to your bookmark bar and execute it whilst browsing DuckDuckGo.
-<a href='var t=["ae=t","t=p","s=m","w=n","m=l","7=282a36","o=s","j=282a36","a=p","9=50fa7b","aa=bd93f9","u=-1","8=f8f8f2","x=f1fa8c","y=44475a","af=1","ai=1","f=1"];for(var i=0;i<t.length;i+=1){document.cookie=t[i]}alert("Appearance settings have successfully been updated!");location.reload();'>Dracula Theme for DuckDuckGo</a>
+All instructions can be found at <a href='https://git.maki.cat/dracula-for-ddg'>https://makixx.github.io/duckduckgo</a>.
 
 ## Team
 
