@@ -4,8 +4,8 @@ var settings = {
 	config: "config.js",
 	readme: "README.md",
 	readmeLine: {
-		bookmarklet: 11,
-		script: 18,
+		bookmarklet: 9,
+		script: 16,
 	}
 }
 
@@ -23,7 +23,7 @@ for (var i=0; i<Object.keys(config).length; i++) {
 }
 bookmarklet = bookmarklet.substring(0, bookmarklet.length-1);
 
-readme[settings.readmeLine.bookmarklet-1] = "[DuckDuckGo - Dracula Theme]("+bookmarklet+")";
+readme[settings.readmeLine.bookmarklet-1] = "Try it by visiting this link: [DuckDuckGo - Dracula Theme]("+bookmarklet+")";
 console.log(settings.readme+" (line "+
 	settings.readmeLine.bookmarklet+"): "+bookmarklet)
 
