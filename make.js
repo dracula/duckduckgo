@@ -34,7 +34,7 @@ for (var i = 0; i < Object.keys(config).length; i++) {
 	let value = config[key];
 	cookies[i] = key+"="+value;
 }
-script = "javascript:var dracula="+
+script = "var dracula="+
 	JSON.stringify(cookies)+";"+
 	"for(var i=0;i<dracula.length;i++)document.cookie=dracula[i];"+
 	"alert('Appearance settings have successfully been updated!');"+
