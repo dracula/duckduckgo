@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        DuckDuckGo Dracula Dark Theme
-// @namespace   https://duckduckgo.com/
-// @match       https://duckduckgo.com/
+// @namespace   https://duckduckgo.com/*
+// @match       https://duckduckgo.com/*
 // @grant       none
 // @version     1.0
 // @author      -
